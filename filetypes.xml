@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping pattern="results" type="PLAIN_TEXT" />
       <mapping pattern="python" type="PLAIN_TEXT" />
+      <mapping pattern="initenv" type="PLAIN_TEXT" />
       <mapping ext="crt" type="PLAIN_TEXT" />
       <mapping ext="p" type="PLAIN_TEXT" />
       <mapping ext="p-keys" type="PLAIN_TEXT" />
