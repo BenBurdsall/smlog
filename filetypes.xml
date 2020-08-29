@@ -4,11 +4,11 @@
     <extensionMap>
       <mapping pattern="backup" type="PLAIN_TEXT" />
       <mapping pattern="python" type="PLAIN_TEXT" />
-      <mapping pattern=".asoundrc" type="PLAIN_TEXT" />
       <mapping pattern="initenv" type="PLAIN_TEXT" />
       <mapping pattern="results" type="PLAIN_TEXT" />
-      <mapping pattern="INSTALL README" type="PLAIN_TEXT" />
       <mapping pattern="deploypizero1" type="PLAIN_TEXT" />
+      <mapping pattern="INSTALL README" type="PLAIN_TEXT" />
+      <mapping pattern=".asoundrc" type="PLAIN_TEXT" />
       <mapping pattern="credentials" type="PLAIN_TEXT" />
       <mapping pattern="config" type="PLAIN_TEXT" />
       <mapping ext="p-keys" type="PLAIN_TEXT" />
