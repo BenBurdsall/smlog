@@ -1,0 +1,5 @@
+<application>
+  <component name="NotificationConfiguration" showBalloons="false">
+    <notification groupId="IlluminatedCloudEventLog" displayType="TOOL_WINDOW" shouldLog="false" />
+  </component>
+</application>
