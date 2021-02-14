@@ -18,6 +18,10 @@
           <option name="url" value="git@gitlab.sportradar.ag:Inno/audio-scout.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:BenBurdsall/moviecreator.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/Documents/dev/src/py" />
